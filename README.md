@@ -1,0 +1,2 @@
+# firstCellHeight
+FirstCellHeightCalculatorForOpenFOAM
